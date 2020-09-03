@@ -3,7 +3,7 @@
 __Mentor__: [Lucas Prone](https://github.com/lprone)
 
 __Mentored__: 
-* __Arregui__, Norberto
+* [__Arregui__, Norberto](https://github.com/na1988)
 * [__Mauras Velez__, Agustin](https://github.com/AgusVelez5)
 * [__Zarzosa__, Fernando](https://github.com/zarfer007)
 
